@@ -57,3 +57,4 @@ scripts
 jest.config.js
 package.json
 sfdx-project.json
+package-lock.json
